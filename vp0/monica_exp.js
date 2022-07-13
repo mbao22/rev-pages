@@ -257,5 +257,5 @@ $("#generate-feedback-btn").click(function() {
 
 
 refresh_reviews()
-record_event("Init_version_P")
+record_event("Init_version_P0_v7")
 
